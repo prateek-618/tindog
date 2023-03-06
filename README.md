@@ -1,2 +1,1 @@
-# tindog
-Dog Matching Website
+TinDog Starting Files
